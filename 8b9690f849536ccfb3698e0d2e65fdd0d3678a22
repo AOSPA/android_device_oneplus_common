@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9d2ffc50_0aa00487",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2022-01-13T17:30:47Z",
+      "side": 1,
+      "message": "why not import 2.3 hidl directly anyways since that\u0027s what we will end up using, or you want the entire history?",
+      "revId": "8b9690f849536ccfb3698e0d2e65fdd0d3678a22",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
