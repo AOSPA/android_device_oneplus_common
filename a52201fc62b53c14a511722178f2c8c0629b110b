@@ -16,6 +16,24 @@
       "message": "does anyone except prebuilt vendor op6 use this even",
       "revId": "a52201fc62b53c14a511722178f2c8c0629b110b",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "02671bbe_d797da1e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2022-01-14T09:21:31Z",
+      "side": 1,
+      "message": "good question, it is in the LOS OnePlus hardware tree, but you\u0027re right, it\u0027s only called by OnePlus sdm845. may be worth testing on other devices. I don\u0027t know why this would be specific to OnePlus 6 or prebuilt vendor.",
+      "parentUuid": "71cfd419_3b60c27a",
+      "revId": "a52201fc62b53c14a511722178f2c8c0629b110b",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
