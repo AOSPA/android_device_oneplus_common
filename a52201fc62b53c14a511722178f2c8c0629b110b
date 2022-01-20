@@ -34,6 +34,24 @@
       "parentUuid": "71cfd419_3b60c27a",
       "revId": "a52201fc62b53c14a511722178f2c8c0629b110b",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "26d9b239_43376fd5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2022-01-20T13:11:15Z",
+      "side": 1,
+      "message": "from what I remember this was necessary for the dirac crap oneplus modified in r, and since they arent building vendor, having support for its initialization was necessary for having working audio",
+      "parentUuid": "02671bbe_d797da1e",
+      "revId": "a52201fc62b53c14a511722178f2c8c0629b110b",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
