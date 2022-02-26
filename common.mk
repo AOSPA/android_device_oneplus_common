@@ -20,3 +20,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     tri-state-key_daemon \
     TriStateHandler
+
+# SEPolicy
+BOARD_VENDOR_SEPOLICY_DIRS += \
+    device/oneplus/common/sepolicy/vendor
