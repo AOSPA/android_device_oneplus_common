@@ -1,0 +1,3 @@
+# DASH
+/dev/dash                                                                                          u:object_r:dash_device:s0
+/(vendor|system/vendor)/bin/dashd                                                                  u:object_r:dashd_exec:s0
