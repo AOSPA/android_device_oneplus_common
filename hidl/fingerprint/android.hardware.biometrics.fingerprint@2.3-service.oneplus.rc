@@ -1,0 +1,4 @@
+service vendor.fps_hal_oneplus /vendor/bin/hw/android.hardware.biometrics.fingerprint@2.3-service.oneplus
+    class late_start
+    user system
+    group system
